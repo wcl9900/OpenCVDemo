@@ -1,0 +1,2 @@
+include ':OpenCVJava', ':OpenCVJni'
+include ':openCVLibrary2411'
